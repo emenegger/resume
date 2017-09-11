@@ -78,7 +78,7 @@ var dataThird = {
     lineTension: 0.3,
     fill: false,
     borderColor: 'blue',
-    backgroundColor: 'transparent',
+    backgroundColor: 'blue',
     pointBorderColor: 'blue',
     pointBackgroundColor: 'lightgreen',
     pointRadius: 5,
